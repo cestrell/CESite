@@ -1,3 +1,5 @@
-# Carlos Estrella Project Portfolio
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-A showcase of projects I have worked/am working on
+# Portfolio for Carlos Estrella
+
+A showcase of projects I have worked/am working on.
