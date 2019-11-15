@@ -2,4 +2,4 @@
 
 # Portfolio for Carlos Estrella
 
-A showcase of projects I have worked/am working on.
+A showcase for projects I have worked/am working on.
